@@ -12,7 +12,7 @@ Files are named after the GPU (e.g., `NVIDIA_H100_PCIe_80_GB.json`) and updated 
 
 ## TABLE BELOW IS UPDATED DAILY!
 
-_Last updated: <!-- LAST_UPDATED -->2025-05-06<!-- LAST_UPDATED -->_
+_Last updated: <!-- LAST_UPDATED -->2025-05-07<!-- LAST_UPDATED -->_
 
 <!-- PRICES_START -->
 <table>
@@ -145,25 +145,6 @@ _Last updated: <!-- LAST_UPDATED -->2025-05-06<!-- LAST_UPDATED -->_
     <td><a href="https://amzn.to/42OvLBx">Link</a></td>
   </tr>
   <tr>
-    <td>NVIDIA GeForce RTX 3090</td>
-    <td>$1,699.99</td>
-    <td>
-      <a href="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_GeForce_RTX_3090.png">
-        <img src="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_GeForce_RTX_3090.png" alt="Price History" style="display:block;margin:auto;">
-        <div style="font-size:10px; color:#888; text-align:center;">(click to see)</div>
-      </a>
-    </td>
-    <td>35.58</td>
-    <td>350</td>
-    <td>0.021</td>
-    <td>0.1</td>
-    <td>24</td>
-    <td>384</td>
-    <td>936.2</td>
-    <td>2020-09-01</td>
-    <td><a href="https://amzn.to/3EJX0oX">Link</a></td>
-  </tr>
-  <tr>
     <td>NVIDIA GeForce RTX 4060 Ti</td>
     <td>$699.00</td>
     <td>
@@ -276,6 +257,25 @@ _Last updated: <!-- LAST_UPDATED -->2025-05-06<!-- LAST_UPDATED -->_
     <td>448</td>
     <td>2018-09-20</td>
     <td><a href="https://amzn.to/3GJgdaL">Link</a></td>
+  </tr>
+  <tr>
+    <td>NVIDIA GeForce RTX 3090</td>
+    <td>$1,699.99</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_GeForce_RTX_3090.png">
+        <img src="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_GeForce_RTX_3090.png" alt="Price History" style="display:block;margin:auto;">
+        <div style="font-size:10px; color:#888; text-align:center;">(click to see)</div>
+      </a>
+    </td>
+    <td>35.58</td>
+    <td>350</td>
+    <td>0.021</td>
+    <td>0.1</td>
+    <td>24</td>
+    <td>384</td>
+    <td>936.2</td>
+    <td>2020-09-01</td>
+    <td><a href="https://amzn.to/3EJX0oX">Link</a></td>
   </tr>
   <tr>
     <td>Quadro RTX 5000</td>
@@ -411,25 +411,6 @@ _Last updated: <!-- LAST_UPDATED -->2025-05-06<!-- LAST_UPDATED -->_
     <td><a href="https://amzn.to/3EHu6Wt">Link</a></td>
   </tr>
   <tr>
-    <td>NVIDIA A100 40GB PCle</td>
-    <td>$8,299.99</td>
-    <td>
-      <a href="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_A100_40GB_PCle.png">
-        <img src="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_A100_40GB_PCle.png" alt="Price History" style="display:block;margin:auto;">
-        <div style="font-size:10px; color:#888; text-align:center;">(click to see)</div>
-      </a>
-    </td>
-    <td>77.97</td>
-    <td>250</td>
-    <td>0.009</td>
-    <td>0.3</td>
-    <td>40</td>
-    <td>5120</td>
-    <td>1560</td>
-    <td>2020-06-22</td>
-    <td><a href="https://amzn.to/3EJ2Iaw">Link</a></td>
-  </tr>
-  <tr>
     <td>NVIDIA RTX 2000 Ada Generation</td>
     <td>$715.95</td>
     <td>
@@ -447,6 +428,25 @@ _Last updated: <!-- LAST_UPDATED -->2025-05-06<!-- LAST_UPDATED -->_
     <td>256</td>
     <td>2024-02-12</td>
     <td><a href="https://amzn.to/42Pvv5b">Link</a></td>
+  </tr>
+  <tr>
+    <td>NVIDIA A100 40GB PCle</td>
+    <td>$8,299.99</td>
+    <td>
+      <a href="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_A100_40GB_PCle.png">
+        <img src="https://raw.githubusercontent.com/yachty66/gpu-price-tracker/main/price_history_charts/NVIDIA_A100_40GB_PCle.png" alt="Price History" style="display:block;margin:auto;">
+        <div style="font-size:10px; color:#888; text-align:center;">(click to see)</div>
+      </a>
+    </td>
+    <td>77.97</td>
+    <td>250</td>
+    <td>0.009</td>
+    <td>0.3</td>
+    <td>40</td>
+    <td>5120</td>
+    <td>1560</td>
+    <td>2020-06-22</td>
+    <td><a href="https://amzn.to/3EJ2Iaw">Link</a></td>
   </tr>
 </table>
 <!-- PRICES_END -->
